@@ -1,0 +1,32 @@
+body {
+    font-family: 'Baloo Bhai', cursive;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("image/L9awWy.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form h1 {
+    font-family: Baloo Bhai;
+    margin-top: 5px;
+    margin-left: 50px;
+    width: 80%;
+}
+
+.form {
+    /* background-color: #83cdec; */
+    height: 70%;
+    width: 40%;
+    /* border:20px solid rgb(0, 4, 128);
+        border-radius:20px ; */
+    margin-top: 10px;
+    margin-left: 100px;
+    ;
+    padding: 30px;
+}
+
+.form input:hover {
+    background-color: antiquewhite;
+}

@@ -1,0 +1,18 @@
+body{
+    background-image:url('image/pexels-marko-zirdum-2188012.jpg');
+    background-size: cover;
+     background-repeat: no-repeat;
+ }
+.middle {
+     position:absolute;
+     display:block;
+     width: 500px;
+      top:100px;
+     left:0px;
+     margin: 30px; 
+     font-family: 'DynaPuff';
+     color:white;
+ }
+.middle h1{
+     font-family: 'DynaPuff';
+ }

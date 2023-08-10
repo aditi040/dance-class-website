@@ -1,0 +1,22 @@
+body {
+    font-family: 'Baloo Bhai', cursive;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background-image: url('image/pexels-pixabay-209948.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.con h1 {
+    font-family: Baloo Bhai;
+    margin-top: 5px;
+    margin-left: 80px;
+    width: 80%;
+}
+
+.con {
+    width: 30%;
+    margin-top: 20px;
+    margin-left: 80px;
+}
